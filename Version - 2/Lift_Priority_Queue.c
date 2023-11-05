@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// Basic struct for the queue
 typedef struct Node {
     int floor;
     char direction;
